@@ -1,0 +1,25 @@
+<package>
+	<id>com.jafar.Anemonefonts</id>
+	<name>Anemonefonts</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesustrate</package>
+	</dependencies>
+	<shortDescription>Enable fonts from Anemone</shortDescription>
+	<descriptionlist>
+		<description>Anemonefonts tweak</description>
+		<description>support iOS 8 - 12.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

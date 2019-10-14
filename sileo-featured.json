@@ -1,6 +1,6 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
@@ -14,7 +14,7 @@
 
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
@@ -28,7 +28,7 @@
 
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
@@ -42,7 +42,7 @@
 
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
@@ -56,7 +56,7 @@
 
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
@@ -70,7 +70,7 @@
 
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{200, 150}",
+  "itemSize":"{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {

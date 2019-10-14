@@ -5,8 +5,73 @@
   "banners": [
     {
         "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
-        "title": "TWEAK_NAME",
-        "package": "TWEAK_BUNDLE",
+        "title": "DzSnap",
+        "package": "com.youreoo.mohadu31.dzsnap",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
+        "title": "DzSnap A12",
+        "package": "com.youreoo.mohadu31.picaboo",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
+        "title": "Anemonefonts",
+        "package": "com.jafar.Anemonefonts",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
+        "title": "ReProvision",
+        "package": "com.matchstic.reprovision",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
+        "title": "Liberty Lite (Beta)",
+        "package": "com.ryleyangus.libertylite.beta",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "SOURCE_LINK/assets/Banners/FILE_NAME.png",
+        "title": "CircleIcons",
+        "package": "org.coolstar.circleicons",
         "hideShadow": false
     }
   ]

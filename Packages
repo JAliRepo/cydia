@@ -57,7 +57,7 @@ Section: Addons
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 8.0)
 Conflicts:
-Filename: ./debs/fingertouch_0.0.6b2 _iphoneos-arm.deb
+Filename: ./debs/fingertouch_0.0.6b2_iphoneos-arm.deb
 Depiction:
 Icon: file:///Library/PreferenceBundle/fingertouchprefs.bundle/icon@2x.png
 Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/FingerTouch
@@ -117,7 +117,7 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts:
-Filename: ./debs/scothmanforsnapchatelectra_12.10.1 _iphoneos-arm.deb
+Filename: ./debs/scothmanforsnapchatelectra_12.10.1_iphoneos-arm.deb
 Depiction:
 Icon: file:///Library/Application%20Support/SnapOthman/SCOthmanResources.bundle/SCOthmanIcon.png
 Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/SCOthman For Snap (iOS11)
@@ -162,7 +162,7 @@ Section: Themes
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 8.0)
 Conflicts: 
-Filename: ./debs/circleicons-1.3.2 _iphoneos-arm.deb
+Filename: ./debs/circleicons-1.3.2_iphoneos-arm.deb
 Depiction:
 Icon:
 Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/CircleIcons

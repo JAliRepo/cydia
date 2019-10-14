@@ -1,0 +1,169 @@
+
+Package: com.jafar.Anemonefonts
+Name: Anemonefonts
+Version: 2.0
+Maintainer: Jafar Ali 
+Author: Anemone 
+Description: Enable fonts from Anemone
+Section: Addons
+Installed-Size: 4.96 KB
+Architecture: iphoneos-arm
+Pre-Depends: com.anemonetheming.anemone
+Depends: mobilesubstrate, firmware (>= 8.0)
+Conflicts: 
+Filename: ./debs/com.jafar.Anemonefonts_2.0_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/Anemonefonts
+
+Package: com.yourepo.mohadu31.dzsnap
+Name: DzSnap
+Version: 1.0.3
+Maintainer: Jafar Ali 
+Author: iMokhles 
+Description: Add features for Snapchat
+Section: Tweaks
+Installed-Size: 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts:
+Filename: ./debs/com.yourepo.mohadu31.dzsnap_1.0.3_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/DzSanp
+
+Package: com.yourepo.mohadu31.picaboo
+Name: DzSnap A12
+Version: 1.2
+Maintainer: Jafar Ali 
+Author: iMokhles 
+Description: Add features for Snapchat
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts:
+Filename: ./debs/com.yourepo.mohadu31.picaboo_1.2_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/DzSnap A12
+
+Package: it.dreamcode.ft
+Name: FingerTouch
+Version: 0.0.6b2
+Maintainer: Jafar Ali 
+Author: Michele Primavera 
+Description: Touch ID gestures
+Section: Addons
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 8.0)
+Conflicts:
+Filename: ./debs/fingertouch_0.0.6b2 _iphoneos-arm.deb
+Depiction:
+Icon: file:///Library/PreferenceBundle/fingertouchprefs.bundle/icon@2x.png
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/FingerTouch
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++ A12
+Version: 0.9.5
+Maintainer: Jafar Ali
+Author: CokePokes 
+Description: Downgrade apps version
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/AppStore++ A12
+
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.4.5
+Maintainer: Jafar Ali 
+Author: Matt Clarke 
+Description: Re-sign applications on your device
+Section: System
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts:
+Filename: ./debs/com.matchstic.reprovision_0.4.5_iphoneos-arm.deb
+Depiction:
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/ReProvision
+
+Package: com.ryleyangus.libertylite.beta
+Name: Liberty Lite (Beta)
+Version: 0.2.12
+Maintainer: Jafar Ali 
+Author: Ryley Angus
+Description: A general purpose jailbreak detection
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty,com. ryleyangus.libertylite
+Filename: ./debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Depiction:
+Icon: file:///Library/PrefrenceBundles/LibertyPref.bundle/LibertyPref.png
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/Liberty Lite (Beta)
+
+Package: tv.othman.scothman.ios11
+Name: SCOthman For Snap (iOS11)
+Version: 12.10.1
+Maintainer: Jafar Ali 
+Author: Othman Alomiry
+Description: Add features to the snapchat
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts:
+Filename: ./debs/scothmanforsnapchatelectra_12.10.1 _iphoneos-arm.deb
+Depiction:
+Icon: file:///Library/Application%20Support/SnapOthman/SCOthmanResources.bundle/SCOthmanIcon.png
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/SCOthman For Snap (iOS11)
+
+Package: com.unlimapps.uaupdatetools
+Name: App Admin
+Version: 1.0r-102
+Maintainer: Jafar Ali 
+Author: UnlimApps Inc. 
+Description: Downgrade iOS apps to any previous version
+Section: System
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts:it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/App Admin
+
+Package: xyz.willy.zebra
+Name: Zebra (BETA)
+Version: 1.0~beta22-1
+Maintainer: Jafar Ali 
+Author: Wilson Styres 
+Description: Enable fonts from Anemone
+Section: Packaging
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 8.0)
+Conflicts:
+Filename: ./debs/xyz.willy.zebra_1.0~22-1_iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/Zebra (BETA)
+
+Package: org.coolstar.circleicons
+Name: CircleIcons
+Version: 1.3.2
+Maintainer: Jafar Ali 
+Author: CoolStar 
+Description: Circle Icons with cool overlays!
+Section: Themes
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 8.0)
+Conflicts: 
+Filename: ./debs/circleicons-1.3.2 _iphoneos-arm.deb
+Depiction:
+Icon:
+Sileodepiction: https://jalirepo.github.io/cydia/sileo-depictions/CircleIcons
+

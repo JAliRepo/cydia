@@ -1,14 +1,14 @@
 <repo>
-	<footerlinks>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/Ja_Repo</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>Donate me on PayPal</name>
-			<url>https://paypal.com/busadoki</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-	</footerlinks>
+ <footerlinks>
+   <link>
+      <name>Follow me on Twitter</name>
+      <url>https://twitter.com/Ja_Repo</url>
+      <iconclass>fa fa-twitter</iconclass>
+     </link>
+     <link>
+     <name>Donate me on PayPal</name>
+    <url>https://paypal.com/busadoki</url>
+   <iconclass>fa fa-twitter</iconclass>
+  </link>
+ </footerlinks>
 </repo>

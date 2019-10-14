@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://com.yourepo.mohadu31.dzsnap",
+        "url": "https://i.ytimg.com/vi/3HhGYmP6E8Q/maxresdefault.jpg",
         "title": "DzSnap",
         "package": "com.youreoo.mohadu31.dzsnap",
         "hideShadow": false
@@ -18,7 +18,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://com.yourepo.mohadu31.picaboo",
+        "url": "https://i.ytimg.com/vi/3HhGYmP6E8Q/maxresdefault.jpg",
         "title": "DzSnap A12",
         "package": "com.youreoo.mohadu31.picaboo",
         "hideShadow": false
@@ -32,7 +32,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://com.jafar.Anemonefonts",
+        "url": "https://www.revkid.com/wp-content/uploads/2018/02/how-to-change-iOS-11-fonts-without-cydia-using-Electra.jpg",
         "title": "Anemonefonts",
         "package": "com.jafar.Anemonefonts",
         "hideShadow": false
@@ -46,7 +46,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://com.matchstic.reprovision",
+        "url": "https://i2.wp.com/iphonconcept.com/wp-content/uploads/2018/08/reprovision_homesigning.png?resize=770%2C514&ssl=1",
         "title": "ReProvision",
         "package": "com.matchstic.reprovision",
         "hideShadow": false
@@ -60,7 +60,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://com.ryleyangus.libertylite.beta",
+        "url": "https://mrmad.com.tw/wp-content/uploads/2018/03/liberty-lite-2.png",
         "title": "Liberty Lite (Beta)",
         "package": "com.ryleyangus.libertylite.beta",
         "hideShadow": false
@@ -74,7 +74,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "sileo://org.coolstar.circleicons",
+        "url": "https://zunda-hack.com/wp-content/uploads/2019/07/fullsizeoutput_bcd.jpeg",
         "title": "CircleIcons",
         "package": "org.coolstar.circleicons",
         "hideShadow": false

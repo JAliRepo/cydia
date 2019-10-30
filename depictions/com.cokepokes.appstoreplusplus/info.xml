@@ -1,0 +1,31 @@
+<package>
+	<id>com.cokepokes.appstoreplusplus</id>
+	<name>AppStore++ A12</name>
+	<version>0.9.5</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Downgrade apps from AppStore to any previous version</shortDescription>
+	<descriptionlist>
+
+
+		<description><![CDATA[
+		This tweak lets you downgrade your apps from AppStore to any previous version.
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

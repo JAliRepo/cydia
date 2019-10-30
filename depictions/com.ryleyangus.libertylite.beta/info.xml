@@ -1,0 +1,32 @@
+<package>
+	<id>com.ryleyangus.libertylite.beta</id>
+	<name>Liberty Lite (Beta)</name>
+	<version>0.2.12</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Bypass Jailbreak Detection</shortDescription>
+	<descriptionlist>
+
+
+		<description><![CDATA[
+		This tweak lets you bypass Jailbreak Detection. <br/>
+
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

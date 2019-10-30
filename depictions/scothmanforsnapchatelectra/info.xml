@@ -1,0 +1,31 @@
+<package>
+	<id>scothmanforsnapchatelectra</id>
+	<name>SCOthman For Snap (iOS11-12)</name>
+	<version>12.10.1</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>11.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Add features to the snapchat</shortDescription>
+	<descriptionlist>
+
+
+		<description><![CDATA[
+		This tweak Adds features to the snapchat! <br/>
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

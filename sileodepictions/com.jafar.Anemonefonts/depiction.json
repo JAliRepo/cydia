@@ -1,0 +1,63 @@
+{
+    "headerImage": "",
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "url": "",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Enable fonts by Anemone"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "30-10-2019",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Anemone",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Info",
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#f9b35c",
+    "class": "DepictionTabView"
+}

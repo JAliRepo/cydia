@@ -1,0 +1,31 @@
+<package>
+	<id>com.yourepo.mohadu31.dzsnap</id>
+	<name>DzSnap old</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Enable features of snapchat</shortDescription>
+	<descriptionlist>
+
+
+		<description><![CDATA[
+		This tweak adds features to the snapchat!
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

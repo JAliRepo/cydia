@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/busadoki</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+             <link>
+			<name>Donate to me :)</name>
+			<url>https://paypal.me/busadoki</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+             <link>
+			<name>View my Github</name>
+			<url>https://GitHub.com/JAliRepo</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>

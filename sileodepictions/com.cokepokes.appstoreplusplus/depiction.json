@@ -1,233 +1,63 @@
 {
-    "class": "DepictionTabView",
+    "headerImage": "",
+    "minVersion": "0.1",
     "tabs": [
         {
-            "class": "DepictionStackView",
-            "tabname": "Info",
             "views": [
                 {
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": ""
+                            "url": "",
+                            "accessibilityText": "Screenshot0"
                         }
-
-                    ]
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
                 },
                 {
-                    "title": "markdown-description",
                     "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
                     "class": "DepictionMarkdownView",
-                    "markdown": "Downgrade apps from AppStore to any previous version",
-                    "useBottomMargin": false
+                    "markdown": "Downgrade apps from AppStore to any previous version"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "Version",
                     "text": "0.9.5",
+                    "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Released",
                     "text": "30-10-2019",
+                    "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Price",
                     "text": "Free",
+                    "title": "Price",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 },
                 {
-                    "title": "Developer",
                     "text": "CokePokes",
+                    "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 }
-            ]
-        },
-             {
-
-			"class":"DepictionStackView",
-
-			"tabname":"Changelog",
-
-			"views":[
-
-                   {
-
-
-
-                    "class": "DepictionSubheaderView",
-
-
-
-                    "title": "0.9.5",
-
-
-
-                    "useBoldText": true
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionMarkdownView",
-
-
-
-                    "markdown": "- arm64e Support",
-
-
-
-                    "useSpacing": false
-
-
-
-                },
-
-
-
-                 {
-
-
-
-                    "class": "DepictionSubheaderView",
-
-
-
-                    "title": "0.3",
-
-
-
-                    "useBoldText": true
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionMarkdownView",
-
-
-
-                    "markdown": "- Preferences in Settings",
-
-
-
-                    "useSpacing": false
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionSubheaderView",
-
-
-
-                    "title": "0.2",
-
-
-
-                    "useBoldText": true
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionMarkdownView",
-
-
-
-                    "markdown": "- Spoofing a low Battery State.",
-
-
-
-                    "useSpacing": false
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionSubheaderView",
-
-
-
-                    "title": "0.1",
-
-
-
-                    "useBoldText": true
-
-
-
-                },
-
-
-
-                {
-
-
-
-                    "class": "DepictionMarkdownView",
-
-
-
-                    "markdown": "- Initial release.",
-
-
-
-                    "useSpacing": false
-
-
-
-                }
-
-			]
-
-		}
+            ],
+            "tabname": "Info",
+            "class": "DepictionStackView"
+        }
     ],
-    "headerImage": "https://yungspecht.github.io/assets/headers/gasolina.png",
     "tintColor": "#f9b35c",
-    "minVersion": "0.1"
+    "class": "DepictionTabView"
 }
